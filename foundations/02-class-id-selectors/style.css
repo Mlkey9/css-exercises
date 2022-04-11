@@ -1,0 +1,21 @@
+/* rule 1 */
+
+.odd {
+    background-color: rgb(rgb(255, 0167, 167));
+    font-family: Verdana, "DejaVU Sans", sans-serif
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.oddly-cool {
+font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
